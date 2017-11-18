@@ -1,0 +1,16 @@
+// <MapView
+//   style={{flex: 1}}
+//   initialRegion={{
+//     latitude: 0,
+//     longitude: 0,
+//     latitudeDelta: 0.5,
+//     longitudeDelta: 0.5,
+//   }}>
+  // {this.state.data.map(meteor => (
+  //   <MapView.Marker
+  //   coordinate={meteor.reclat, meteor.reclong}
+  //   title={meteor.name}
+  //   description={marker.mass/100} kg
+  //   />
+  // ))}
+// </MapView>
